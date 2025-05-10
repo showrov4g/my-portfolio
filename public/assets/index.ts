@@ -1,7 +1,7 @@
 import logo from "./images/logo.png";
 import profileImg from "./images/profile.png";
-import amazonImg from "./images/amazonImg.png";
-import cyberImg from "./images/cyberBlog.png";
-import noorShop from "./images/noorShop.png";
+import grosory from "./images/grosory.png";
+import doctor from "./images/doctor.png";
+import hostel from "./images/hostel.png";
 
-export { logo, profileImg, amazonImg, cyberImg, noorShop };
+export { logo, profileImg, grosory, doctor, hostel };
