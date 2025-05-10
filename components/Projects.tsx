@@ -67,7 +67,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row-reverse gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://www.noormohmmad.com/"
+            href="https://serene-crumble-e9ce54.netlify.app/"
             target="_blank"
           >
             <div>
